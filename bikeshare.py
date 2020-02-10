@@ -4,6 +4,7 @@
 #Name: Vanessa Marinho Ribeiro Bertolin
 #Date: 12/13/2019
 #Version: 1.0
+#Available in GitRepo: https://github.com/vanessabertolin/pdsnd_github.git
 #**********************************************************************************************************************************
 
 #Import all necessary libaries
