@@ -1,6 +1,12 @@
 ### Date created
 02-10-2020
 
+### Created by
+Vanessa Bertolin
+
+### Version
+1.0
+
 ### Project Title
 Bike Share Project
 
