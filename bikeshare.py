@@ -30,7 +30,7 @@ def get_filters():
     
     invalid_inputs = "I can not find this option. Please try again!!\n " 
     
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! This is the bikeshare project Data. \nLet\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). 
     while 1 == 1 :
         city = input("\nWould you like to see data for:\nChicago, New York or Washington? \n").lower()
